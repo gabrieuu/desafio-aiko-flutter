@@ -1,0 +1,1 @@
+const BASE_URL = 'http://api.olhovivo.sptrans.com.br/v2.1';
